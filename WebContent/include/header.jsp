@@ -21,22 +21,12 @@
 <!-- jquery js -->
 <script type="text/javascript" src="${pageContext.request.contextPath}/common/js/jquery-3.6.1.min.js"></script>
 
+<!-- bootstrap js, css -->
+<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/common/css/bootstrap.css" />
+<script type="text/javascript" src="${pageContext.request.contextPath}/common/js/bootstrap.js"></script>
 
-<!-- 개발 bootstrap js,css -->
-<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/common/css/bootstrap.min.css" />
-<script type="text/javascript" src="${pageContext.request.contextPath}/common/js/bootstrap.min.js"></script>
-
-
-<!-- 운영 bootstrap js,css 
-<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/common/css/bootstrap.min.css" />
-<script type="text/javascript" src="${pageContext.request.contextPath}/common/js/bootstrap.min.js"></script>
--->
-
-
-<!--  안씀 -->
-<!-- sidebars js 
+<!-- sidebars js, css -->
 <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/common/css/sidebars.css" />
 <script type="text/javascript" src="${pageContext.request.contextPath}/common/js/sidebars.js"></script>
--->
 
 </head>
