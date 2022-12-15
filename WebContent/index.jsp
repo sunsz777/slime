@@ -7,7 +7,7 @@
 <header class="header">
       <button type="button" class=" menuBtn"><img class="menuImg" alt=""></button>
       <a class="mainTitle" href="#">메이플 유틸리티</a>
-      kkkk
+      kkkk444444444545454545이선재
   </header>
 	<div class="content">
 		<nav class="nav">side_menu</nav>
